@@ -21,4 +21,6 @@
 	<access origin="*" />
 	<allow-intent href="http://*/*" />
 	<allow-intent href="https://*/*" />
+	<allow-intent href="sms:*" />
+	<allow-intent href="tel:*" />
 </widget>
